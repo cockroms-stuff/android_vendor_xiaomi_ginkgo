@@ -96,7 +96,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ginkgo/proprietary/vendor/etc/camera/score_icon.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/score_icon.png \
     vendor/xiaomi/ginkgo/proprietary/vendor/etc/camera/vidhance_C3J_calibration:$(TARGET_COPY_OUT_VENDOR)/etc/camera/vidhance_C3J_calibration \
     vendor/xiaomi/ginkgo/proprietary/vendor/etc/camera/vidhance_C3X_calibration:$(TARGET_COPY_OUT_VENDOR)/etc/camera/vidhance_C3X_calibration \
-    vendor/xiaomi/ginkgo/proprietary/vendor/etc/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/diracmobile.config \
     vendor/xiaomi/ginkgo/proprietary/vendor/etc/init/vendor.qti.hardware.sensorscalibrate@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.hardware.sensorscalibrate@1.0-service.rc \
     vendor/xiaomi/ginkgo/proprietary/vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc \
     vendor/xiaomi/ginkgo/proprietary/vendor/etc/permissions/com.fingerprints.extension.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.fingerprints.extension.xml \
